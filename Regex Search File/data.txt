@@ -1,0 +1,10 @@
+abid 
+abderrahim 
+hacker
+hackers
+python
+C
+Django
+Shell
+bash
+regex
